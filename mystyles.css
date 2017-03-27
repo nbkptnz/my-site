@@ -7,6 +7,11 @@
   color: #ffffff;
 }
 
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #b30059;
+  text-decoration: none;
+}
+
 .dropdown-menu li a {
   color: #b30059;
 }
