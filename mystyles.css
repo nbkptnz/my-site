@@ -7,7 +7,7 @@
   color: #ffffff;
 }
 
-.nav > li > a:hover, .nav > li > a:focus {
+.nav li a:hover, .nav li a:focus {
   background-color: #b30059;
   text-decoration: none;
 }
