@@ -1,0 +1,65 @@
+.navbar {
+  font-family: "Lucida Sans Unicode"; font-size: 15px;
+  background-color: #b30059;
+    }
+
+.navbar a {
+  color: #ffffff;
+}
+
+.dropdown-menu li a {
+  color: #b30059;
+}
+
+body {
+  font-family: "Lucida Sans Unicode";
+  font-size: 20px;
+  color: #b30059;
+  padding-top: 50px;
+}
+
+body a:link {
+  text-decoration: none;
+}
+
+body a:hover {
+  text-decoration: none;
+}
+/*p {
+  font-size: 20px;
+}*/
+
+/*.container-fluid {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}*/
+
+.header-section {
+  background-color: #cce5ff;
+  }
+
+.main-image {
+  display: inline;
+}
+
+.offer {
+  background-color: #80bdff;
+}
+
+.text {
+  font-size: 14px;
+  color: #660033;
+  text-align: justify;
+  text-justify: inner-word;
+}
+
+.offer-links {
+  font-size: 20px;
+  text-decoration: none;
+  color: #b30059;
+  }
+
+
+.copyright-notice {
+  font-size:12px;
+}
